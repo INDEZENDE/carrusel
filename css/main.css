@@ -1,0 +1,35 @@
+.carousel-content {
+  margin-top: 2%;
+  display: none;
+}
+
+.carousel-content.active {
+  display: block;
+}
+
+.contenedor-carousel {
+  margin: auto;
+  width: 70%;
+  max-width: 1200px;
+  position: relative;
+}
+
+.carousel {
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+
+.carousel div img {
+  width: 100%;
+}
+
+.controls {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+a {
+  text-decoration: none;
+}
